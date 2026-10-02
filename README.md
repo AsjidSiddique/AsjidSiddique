@@ -220,25 +220,6 @@ Full-stack simulator of **CPU scheduling (FCFS, SJF, Round Robin, Priority)** an
 </div>
 <!-- ==================== GITHUB CONTRIBUTIONS ==================== -->
 
-<h2 align="center">📊 GitHub Contributions</h2>
-
-<p align="center">
-  <a href="https://github.com/AsjidSiddique">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=AsjidSiddique&theme=github-compact&hide_border=true&area=true"
-      width="100%"
-      alt="GitHub Contribution Graph"
-    />
-  </a>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/AsjidSiddique">
-  🔎 View full contribution calendar
-</a>
-
-</p>
 
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->

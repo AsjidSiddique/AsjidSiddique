@@ -218,26 +218,45 @@ Full-stack simulator of **CPU scheduling (FCFS, SJF, Round Robin, Priority)** an
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsjidSiddique&theme=github-compact&bg_color=050816&color=C9D1D9&line=22D3EE&point=A855F7&area=true&hide_border=true" width="100%" />
 
 </div>
+<!-- ==================== GITHUB CONTRIBUTIONS ==================== -->
+
+<h2 align="center">📊 GitHub Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/AsjidSiddique">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=AsjidSiddique&theme=github-compact&hide_border=true&area=true"
+      width="100%"
+      alt="GitHub Contribution Graph"
+    />
+  </a>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/AsjidSiddique">
+  🔎 View full contribution calendar
+</a>
+
+</p>
+
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-snake.gif"
+    width="100%"
+    alt="Animated contribution snake"
+  />
 </p>
+
+<p align="center">
+  <i>Every contribution tells a story — watch the snake eat them! 🐍</i>
+</p>
+
 
 
 ---

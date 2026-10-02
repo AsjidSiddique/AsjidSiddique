@@ -219,15 +219,26 @@ Full-stack simulator of **CPU scheduling (FCFS, SJF, Round Robin, Priority)** an
 
 </div>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/AsjidSiddique/AsjidSiddique/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
 
 ---
 
